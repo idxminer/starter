@@ -2,4 +2,6 @@
 Selamat datang
 
 ## List FaucedPay Claim
-### Claim per 1 jam
+Site | Reward | Time 
+------------|--------------|------------
+[TRX Keran.co](https://keran.co/TRX/index.php?Claim=TRX) | 0.01 hours
